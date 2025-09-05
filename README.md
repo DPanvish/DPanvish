@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://md-moniruzzaman-tonoy.web.app/assets/4-BsJYbpav.gif" width="100%"/>
+  <img src="https://www.zuplic.com/wp-content/uploads/2025/02/web-developer-career.gif" width="100%"/>
 </div>
 
 <div align="center">
