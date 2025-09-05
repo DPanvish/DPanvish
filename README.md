@@ -20,15 +20,15 @@
 - 🤝 I’m looking to collaborate on **Open Source Frontend Projects**, especially those using React or Three.js.
 - 💬 Ask me anything about **HTML, CSS, JavaScript, React.js, and Three.js**. I'm happy to help!
 - 📫 How to reach me: **panvishd@gmail.com**
-- 📄 Check out my experiences: **[My Resume](https://drive.google.com/file/d/1khaLy5YuSnfazrnjLW44TG13IXNpzXwT/view?usp=sharing)**
+- 📄 Check out my experiences: **[My Resume](https://drive.google.com/file/d/1pfD2Nx4OP-oHTsNKZpGx4cxw3dfCQRFL/view?usp=sharing)**
 
 <details>
 <summary>⚡ Fun Fact</summary>
 JavaScript was created by Brendan Eich in just 10 days in 1995. It was originally named "Mocha," then "LiveScript," before being changed to "JavaScript" as a marketing move to align with the popularity of Java at the time.
 </details>
     </td>
-    <td valign="top" width="40%">
-      <img align="right" alt="Coding" width="400" src="https://static.tildacdn.biz/tild3930-6134-4666-b963-386462303334/programmer_1.gif" />
+    <td valign="top" width="40%" >
+      <img align="right" alt="Coding" width="400" src="https://miro.medium.com/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" />
     </td>
   </tr>
 </table>
