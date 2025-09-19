@@ -90,11 +90,19 @@ Here are some of the technologies I work with:
 
 ---
 
-### 📊 GitHub Stats
+<div align="center">
+  <h2>📊 My GitHub Stats & Trophies</h2>
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dpanvish&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="dpanvish" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dpanvish&layout=compact&locale=en&theme=tokyonight&hide_border=true" alt="dpanvish" />
-</p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=dpanvish&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="dpanvish" />
+  </p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dpanvish&layout=compact&locale=en&theme=tokyonight&hide_border=true" alt="dpanvish" />
+  </p>
+  <p>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dpanvish&theme=tokyonight" alt="dpanvish's profile details" />
+  </p>
+  <p>
+    <img src="https://github-profile-trophy.vercel.app/?username=dpanvish&theme=tokyonight&column=4&margin-w=15&margin-h=10" alt="dpanvish"/>
+  </p>
+</div>
