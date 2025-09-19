@@ -98,6 +98,3 @@ Here are some of the technologies I work with:
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dpanvish&layout=compact&locale=en&theme=tokyonight&hide_border=true" alt="dpanvish" />
 </p>
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dpanvish&theme=tokyonight&hide_border=true" alt="dpanvish" />
-</p>
