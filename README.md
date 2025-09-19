@@ -38,7 +38,7 @@ JavaScript was created by Brendan Eich in just 10 days in 1995. It was originall
 ### 🌐 Connect with me
 
 <p align="left">
-  <a href="https://linkedin.com/in/panvish-dowripilli" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="panvish dowripilli" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/d-panvish/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="panvish dowripilli" height="30" width="40" /></a>
   <a href="https://instagram.com/mr_panvish" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_panvish" height="30" width="40" /></a>
   <a href="https://www.codechef.com/users/panvish" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="panvish" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/panvishd" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="panvishd" height="30" width="40" /></a>
