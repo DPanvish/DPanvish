@@ -43,7 +43,7 @@ JavaScript was created by Brendan Eich in just 10 days in 1995. It was originall
   <a href="https://www.codechef.com/users/panvish" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="panvish" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/panvishd" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="panvishd" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/panvish" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="panvish" height="30" width="40" /></a>
-  <a href="https://discord.gg/panvish" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="panvish" height="30" width="40" /></a>
+  <a href="https://discordapp.com/users/1083337634904031284" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="panvish" height="30" width="40" /></a>
 </p>
 
 ---
