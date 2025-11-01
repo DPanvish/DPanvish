@@ -15,7 +15,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently building an **AI Resume Analyzer** to help streamline the hiring process.
+- 🔭 I’m currently building an **SaraAI** which is a personal AI Assistant.
 - 🌱 I’m diving deep into the backend with **Node.js, Express.js, and MongoDB**.
 - 🤝 I’m looking to collaborate on **Open Source Frontend Projects**, especially those using React or Three.js.
 - 💬 Ask me anything about **HTML, CSS, JavaScript, React.js, and Three.js**. I'm happy to help!
