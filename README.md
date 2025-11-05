@@ -4,7 +4,7 @@
 
 <div align="center">
   <h1>Hi there, I'm Panvish Dowripilli 👋</h1>
-  <h3>A passionate Frontend Developer from India, crafting beautiful and functional user experiences.</h3>
+  <h3>A passionate Full Stack Web Developer from India, crafting beautiful and functional user experiences.</h3>
 </div>
 
 ---
