@@ -35,74 +35,94 @@ JavaScript was created by Brendan Eich in just 10 days in 1995. It was originall
 
 ---
 
-### 🌐 Connect with me
+<div align="center">
+  <h3>🌐 Connect & Code</h3>
+  
+  <a href="https://www.linkedin.com/in/d-panvish/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://instagram.com/mr_panvish" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://discordapp.com/users/1083337634904031284" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank" />
+  </a>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/d-panvish/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="panvish dowripilli" height="30" width="40" /></a>
-  <a href="https://instagram.com/mr_panvish" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_panvish" height="30" width="40" /></a>
-  <a href="https://www.codechef.com/users/panvish" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="panvish" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/panvishd" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="panvishd" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/panvish" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="panvish" height="30" width="40" /></a>
-  <a href="https://discordapp.com/users/1083337634904031284" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="panvish" height="30" width="40" /></a>
-</p>
+  <a href="https://www.leetcode.com/panvish" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" target="_blank" />
+  </a>
+  <a href="https://www.hackerrank.com/panvishd" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://www.codechef.com/users/panvish" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" target="_blank" />
+  </a>
+</div>
 
 ---
 
-### 💻 Tech Stack
+<div align="center">
+  <h3>💻 Tech Stack</h3>
 
-Here are some of the technologies I work with:
+  <p>
+    <b>Frontend</b><br/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+    <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js"/>
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  </p>
 
-<p align="left">
-  <strong>Frontend:</strong><br>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-</p>
+  <p>
+    <b>Backend & Databases</b><br/>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  </p>
 
-<p align="left">
-  <strong>Backend & Databases:</strong><br>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-</p>
+  <p>
+    <b>Languages & Core Tools</b><br/>
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  </p>
 
-<p align="left">
-  <strong>Languages & Core Tools:</strong><br>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-</p>
-
-<p align="left">
-  <strong>Development & Design Tools:</strong><br>
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor AI"/>
-  <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white" alt="WebStorm"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
-</p>
+  <p>
+    <b>Development & Design Tools</b><br/>
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+    <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor AI"/>
+    <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white" alt="WebStorm"/>
+    <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
+  </p>
+</div>
 
 ---
 
 <div align="center">
   <h2>📊 My GitHub Stats & Trophies</h2>
 
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=dpanvish&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="dpanvish" />
-  </p>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dpanvish&layout=compact&locale=en&theme=tokyonight&hide_border=true" alt="dpanvish" />
-  </p>
-  <p>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dpanvish&theme=tokyonight" alt="dpanvish's profile details" />
-  </p>
-  <p>
-    <img src="https://github-profile-trophy.vercel.app/?username=dpanvish&theme=tokyonight&column=4&margin-w=15&margin-h=10" alt="dpanvish"/>
-  </p>
+  <table>
+    <tr>
+      <td align="center">
+        <img height="170" src="https://github-readme-stats-lemon-two-19.vercel.app/api?username=dpanvish&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+      </td>
+      <td align="center">
+        <img height="170" src="https://github-readme-stats-lemon-two-19.vercel.app/api/top-langs/?username=dpanvish&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+      </td>
+    </tr>
+  </table>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dpanvish&theme=tokyonight" />
+  <br/>
+  <img width="70%" src="https://streak-stats.demolab.com?user=dpanvish&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=dpanvish&theme=tokyo-night" />
 </div>
