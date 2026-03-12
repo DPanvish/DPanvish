@@ -15,7 +15,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently building SaraAI which is a personal AI Assistant.
+- 🔭 I’m currently building **SaraAI** which is a personal AI Assistant.
 - 🌱 I’m diving deep into the backend with **Node.js, Express.js, and MongoDB**.
 - 🤝 I’m looking to collaborate on **Open Source Frontend Projects**, especially those using MERN.
 - 💬 Ask me anything about **HTML, CSS, JavaScript, React.js, Node.js, Express.js and MongoDB**. I'm happy to help!
