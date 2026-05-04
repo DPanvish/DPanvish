@@ -20,7 +20,7 @@
 - 🤝 I’m looking to collaborate on **Open Source Frontend Projects**, especially those using MERN.
 - 💬 Ask me anything about **HTML, CSS, JavaScript, React.js, Node.js, Express.js and MongoDB**. I'm happy to help!
 - 📫 How to reach me: **panvishd@gmail.com**
-- 📄 Check out my experiences: **[My Resume](https://drive.google.com/file/d/1pfD2Nx4OP-oHTsNKZpGx4cxw3dfCQRFL/view?usp=sharing)**
+- 📄 Check out my experiences: **[My Resume](https://drive.google.com/file/d/1BDvxmB2zwJK8b0BPyYH1w8rsWaeS5m2T/view?usp=sharing)**
 
 <details>
 <summary>⚡ Fun Fact</summary>
