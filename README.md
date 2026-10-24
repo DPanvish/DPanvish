@@ -15,8 +15,8 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently learning **Java SpringBoot, Cryptography Concepts, CA Concepts**.
-- 🌱 I’m diving deep into the backend with **Node.js, Express.js, and MongoDB**.
+- 🔭 I’m currently learning **Java, SpringBoot, Cryptography Concepts**.
+- 🌱 I’m diving deep into the backend with **Node.js, Express.js, MongoDB, Spring boot and SQL.**.
 - 🤝 I’m looking to collaborate on **Open Source Frontend Projects**, especially those using MERN.
 - 💬 Ask me anything about **HTML, CSS, JavaScript, React.js, Node.js, Express.js and MongoDB**. I'm happy to help!
 - 📫 How to reach me: **panvishd@gmail.com**
